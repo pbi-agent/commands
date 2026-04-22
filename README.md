@@ -1,6 +1,6 @@
 # pbi-agent Commands Repository
 
-This repository is the official commands catalog for `pbi-agent`.
+This repository is the official commands catalog for [pbi-agent](https://github.com/pbi-agent/pbi-agent).
 
 Repository: [https://github.com/pbi-agent/commands](https://github.com/pbi-agent/commands)
 
