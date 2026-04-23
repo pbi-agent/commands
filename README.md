@@ -13,3 +13,4 @@ that can be installed with `pbi-agent commands add`. Public commands live under
 - `commands/execute.md`: execution-first collaboration mode
 - `commands/plan.md`: conversational planning mode
 - `commands/review.md`: code review guidance
+- `commands/retrospective.md`: post-run workflow retrospective and customization diagnosis
