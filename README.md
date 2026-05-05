@@ -14,3 +14,5 @@ that can be installed with `pbi-agent commands add`. Public commands live under
 - `commands/plan.md`: conversational planning mode
 - `commands/review.md`: code review guidance
 - `commands/retrospective.md`: post-run workflow retrospective and customization diagnosis
+- `commands/orchestrate.md`: sequential sub-agent execution with main-agent review and validation gates
+- `commands/plan-interactive.md`: interactive planning mode with adaptive clarification and environment grounding
