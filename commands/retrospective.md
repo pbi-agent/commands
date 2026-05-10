@@ -1,3 +1,8 @@
+---
+name: retrospective
+description: Evaluate a completed workflow and recommend the most precise pbi-agent customization improvement.
+---
+
 # Retrospective Mode
 
 Evaluate the workflow that just happened and identify the most precise customization change for the next rep.

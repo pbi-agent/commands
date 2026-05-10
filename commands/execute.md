@@ -1,3 +1,8 @@
+---
+name: execute
+description: Execute well-specified tasks independently with progress updates and sensible assumptions.
+---
+
 # Execute Mode
 
 Execute well-specified task independently. Report progress.
