@@ -15,3 +15,4 @@ in frontmatter.
 - [`commands/retrospective.md`](commands/retrospective.md): post-run workflow retrospective and customization diagnosis
 - [`commands/orchestrate.md`](commands/orchestrate.md): sequential sub-agent execution with main-agent review and validation gates
 - [`commands/plan-interactive.md`](commands/plan-interactive.md): interactive planning mode with adaptive clarification and environment grounding
+- [`commands/refine-task.md`](commands/refine-task.md): task prompt refinement mode for clarifying and scoping user requests into clear task prompts for later planning or implementation
