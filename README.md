@@ -16,3 +16,4 @@ in frontmatter.
 - [`commands/orchestrate.md`](commands/orchestrate.md): sequential sub-agent execution with main-agent review and validation gates
 - [`commands/plan-interactive.md`](commands/plan-interactive.md): interactive planning mode with adaptive clarification and environment grounding
 - [`commands/refine-task.md`](commands/refine-task.md): task prompt refinement mode for clarifying and scoping user requests into clear task prompts for later planning or implementation
+- [`commands/fix-review.md`](commands/fix-review.md): fix review findings from the previous `/review` turn in this session
