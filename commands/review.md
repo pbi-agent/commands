@@ -1,6 +1,7 @@
 ---
 name: review
 description: Review proposed code changes and prioritize actionable bugs, regressions, and risks.
+allowed_tools: read,shell
 ---
 
 # Review Mode

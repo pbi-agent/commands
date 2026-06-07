@@ -1,6 +1,7 @@
 ---
 name: retrospective
 description: Evaluate a completed workflow and recommend the most precise pbi-agent customization improvement.
+allowed_tools: read,shell
 ---
 
 # Retrospective Mode

@@ -1,6 +1,7 @@
 ---
 name: plan
 description: Produce an implementation-ready non-interactive plan with no user questions.
+allowed_tools: read,shell,web
 ---
 
 # Plan Mode (Non-Interactive)

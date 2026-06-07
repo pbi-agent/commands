@@ -1,6 +1,7 @@
 ---
 name: execute
 description: Execute well-specified tasks independently with progress updates and sensible assumptions.
+allowed_tools: read,write,shell
 ---
 
 # Execute Mode
@@ -59,4 +60,4 @@ At finish, give compact handoff:
 - validation run + result
 - unrelated dirty files or pre-existing validation failures
 
-Preserve unrelated changes. Name as unrelated; do not imply whole workspace clean unless repo-wide validation passed and no unrelated dirty files remain.
+Preserve unrelated changes. Name as unrelated; do not imply whole workspace clean unless repo-wide validation passed.

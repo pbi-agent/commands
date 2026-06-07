@@ -1,6 +1,7 @@
 ---
 name: plan-interactive
 description: Produce an implementation-ready plan after adaptive clarification and environment grounding.
+allowed_tools: read,shell,web,ask-user
 ---
 
 # Plan Mode (Interactive)

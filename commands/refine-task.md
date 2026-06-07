@@ -1,6 +1,7 @@
 ---
 name: refine-task
 description: Refine Task Prompt Mode
+allowed_tools: read,web,ask-user
 ---
 
 # Refine Task Prompt Mode

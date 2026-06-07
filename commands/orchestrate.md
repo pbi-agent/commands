@@ -1,6 +1,7 @@
 ---
 name: orchestrate
 description: Decompose work into sub-agent tasks with main-agent review and validation gates.
+allowed_tools: read,write,shell,sub-agent,web
 ---
 
 # Orchestrate Mode

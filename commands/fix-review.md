@@ -1,6 +1,7 @@
 ---
 name: fix-review
 description: Fix Review Findings
+allowed_tools: read,write,shell
 ---
 
 # Fix Review Findings
