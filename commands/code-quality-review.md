@@ -136,6 +136,7 @@ If there are findings, output exactly this structure:
 ### Code Quality Findings
 
 For each finding:
+If findings exist, emit one `####` subsection per finding in review order.
 
 - `title: <imperative title, max 10 words>`
 - `severity: blocker|major`
