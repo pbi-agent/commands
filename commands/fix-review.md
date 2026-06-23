@@ -6,7 +6,7 @@ allowed_tools: read,write,shell
 
 # Fix Review Findings
 
-Fix findings from the previous `/review` turn in this session.
+Fix findings from the previous turn in this session.
 
 Use the latest review output in the current conversation as the source of truth.
 Do not ask clarifying questions and do not perform a new general review.
